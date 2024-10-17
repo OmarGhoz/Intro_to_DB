@@ -1,5 +1,5 @@
--- Database creation
-CREATE DATABASE alx_book_store;
+-- Database creation with IF NOT EXISTS clause
+CREATE DATABASE IF NOT EXISTS alx_book_store;
 USE alx_book_store;
 
 -- Table for Authors
